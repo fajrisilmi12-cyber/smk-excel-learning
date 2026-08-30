@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Generate Excel learning material for SMK Class 11."""
 import openpyxl
-from openpyxl.styles import Font, Alignment, PatternFill, Border, Side, numbers
+from openpyxl.styles import Font, Alignment, PatternFill, Border, Side
 from openpyxl.utils import get_column_letter
 from openpyxl.chart import BarChart, PieChart, Reference
 
